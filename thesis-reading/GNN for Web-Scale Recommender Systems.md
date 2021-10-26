@@ -17,7 +17,7 @@
 
 
 
-## PingSage Model Architectural
+## PingSage Model Architecture
 
 Localized convolutional modules to generate embeddings for nodes.
 
